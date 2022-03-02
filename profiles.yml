@@ -1,0 +1,13 @@
+contra:
+  outputs:
+    dev:
+      dbname: postgres
+      host: localhost
+      password: workthewayyouwant
+      port: 5438
+      schema: dbt
+      threads: 4
+      timeout_seconds: 300
+      type: postgres
+      user: postgres
+  target: dev
