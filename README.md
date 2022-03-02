@@ -21,7 +21,7 @@ Your goal is to create models to enable an analyst to answer the following quest
 
 > What are the most popular categories of rented films by month?
 
-Add your models to the `models` directory. Use can use whatever organization and conventions reflects your understanding of best practices around dbt and data modeling in general. Update `dbt_project.yml` to reflect your changes to the models. You do not need to model all the data in the database, only what's required to answer the question above. However, the models should reflect the fact that additional data may need to be exposed in the future to meet additional data needs.
+Add your models to the `models` directory. You can use whatever organization and conventions reflects your understanding of best practices around dbt and data modeling in general. Update `dbt_project.yml` to reflect your changes to the models. You do not need to model all the data in the database, only what's required to answer the question above. However, the models should reflect the fact that additional data may need to be exposed in the future to meet additional data needs.
 
 **Note: When developing locally, make sure to append the `--profiles-dir .` option when running any `dbt` commands so that the provided `profiles.yml` file is used.**
 
