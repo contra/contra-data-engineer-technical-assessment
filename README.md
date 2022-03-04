@@ -1,19 +1,23 @@
 # Data Engineer Technical Assessment
 
-The purpose of this assignment is to assess your familiarity with the technologies in our data stack. Please read all the instructions carefully. This exercise should take about 1 to 2 hours to complete, but may take longer if you're unfamiliar with dbt or need to install additional dependencies locally.
+The purpose of this assignment is to assess your familiarity with the technologies in our data stack. Please read all the instructions carefully. This exercise should take about 1 to 2 hours to complete, but may take longer if you're unfamiliar with [dbt](https://www.getdbt.com/docs/) or need to install additional dependencies locally.
 
 - [Instructions](#instructions)
+- [Goal](#goal)
 - [Deliverables](#deliverables)
 - [Local development environment](#local-development-environment)
 - [Helpful resources](#helpful-resources)
 
 ## Instructions
 
-Clone this repository locally.
+1. 2. Set up your local development environment as outlined [here](#local-development-environment).
+2. Clone this repository locally.
+3. Complete the goal described [below](#goal)
+4. Submit all [deliverables](#deliverables)
 
-Next, set up your local development environment as outlined [below](#local-development-environment).
+## Goal
 
-You should now be able to access the database instance, which is a copy of the [Sakila sample database](https://github.com/jOOQ/sakila). The database models the data for a DVD rental store.
+The database instance is a copy of the [Sakila sample database](https://github.com/jOOQ/sakila). The database models the data for a DVD rental store.
 
 [![ERD](https://www.jooq.org/img/sakila.png)](https://www.jooq.org/sakila)
 
