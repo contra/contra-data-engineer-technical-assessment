@@ -35,11 +35,13 @@ Lastly, update `query.sql` with a SQL query that can be executed against the gen
 
 ## Deliverables
 
-Make sure you've committed all your changes, then generate a zip of the local branch:
-
+1. Make sure you've committed all your changes, then generate a zip of the local branch:
 ```sh
 git archive HEAD -o assessment.zip
 ```
+2. Please record a 5-10 minute Loom or video walking through your solution.
+
+Please submit both the zip file and recording via email.
 
 ## Local development environment
 
